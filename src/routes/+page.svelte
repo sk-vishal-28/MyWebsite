@@ -1,2 +1,3 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FyCPyoZDQBBcXikqxkeW2jJ-1200-80.jpg&tbnid=uBAEdMkh_LqI_M&vet=12ahUKEwj2i5mwhOP9AhWwl9gFHVdTCvcQMygBegUIARDdAQ..i&imgrefurl=https%3A%2F%2Fwww.space.com%2F17638-how-big-is-earth.html&docid=Nw8QUnGcMChn6M&w=540&h=540&q=earth&safe=active&ved=2ahUKEwj2i5mwhOP9AhWwl9gFHVdTCvcQMygBegUIARDdAQ//2Q=="alt="EARTH">
+<h1>chole zimmer</h1>
+<p>India, our country is a huge and beautiful land full of wonders.</p>
